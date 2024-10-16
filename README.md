@@ -1,1 +1,2 @@
 # allocation-algorithm-for-student-suppervisor-CSP
+this code explores four advanced algorithms includin Genetic algorithm and simulated annealing to tackle the problem of student-lecturer allocation for final year supervision. it was treated as a constraints satisfaction problem and the main focuses were to balance the average cgpa of students allocated to the lecturers and also allocate students to lecturers based on their rank
